@@ -6,9 +6,7 @@ export default function Main() {
             <div className="container">
                 <div className="card">
                     <div className="card-top">
-                        <p>
-                            600x400
-                        </p>
+                        <img src="https://picsum.photos/600/400" alt="immagine casuale" />
                     </div>
                     <div className="card-bottom">
                         <h4>
