@@ -7,8 +7,17 @@
   box-sizing: border-box;
 }
 
+:root {
+  --body-colour: #E5E5E5;
+  --footer-colour: #333333;
+  --btn-colour: #DAA521;
+  --font-colour: #101010;
+}
+
 body {
   font-family: "Roboto", sans-serif;
+  background-color: var(--body-colour);
+  color: var(--font-colour);
 }
 /* #endregion common */
 
