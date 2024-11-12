@@ -3,6 +3,9 @@ import style from './Button/Button.module.css'
 
 export default function Main() {
 
+    // logica
+    const button = 'leggi di più';
+
     // markup
     return (
         <main>
@@ -19,7 +22,7 @@ export default function Main() {
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis cumque quibusdam a tempora eius labore earum minus. Dolorem quasi ipsa, suscipit qui laboriosam repellendus repellat sit delectus quaerat nihil repudiandae?
                         </p>
                         <button className={style.btn}>
-                            LEGGI DI PIÙ
+                            {button.toUpperCase()}
                         </button>
                     </div>
                 </div>
