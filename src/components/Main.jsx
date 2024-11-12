@@ -14,6 +14,9 @@ export default function Main() {
                     <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis cumque quibusdam a tempora eius labore earum minus. Dolorem quasi ipsa, suscipit qui laboriosam repellendus repellat sit delectus quaerat nihil repudiandae?
                     </p>
+                    <button>
+                        Leggi di più
+                    </button>
                 </div>
             </div>
         </main>
